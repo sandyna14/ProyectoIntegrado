@@ -12,6 +12,6 @@
 
 body{
     width: 98vw;
-    height: auto;
+    height: 100vh;
     display: flex;
 }
