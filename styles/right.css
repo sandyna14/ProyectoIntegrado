@@ -1,6 +1,6 @@
 body > .right-cointainer{
 width: 70%;
-height: max-content;
+height: 100%;
 background-color:var(--second-color);
 position: relative;
 padding: 1rem;
@@ -132,6 +132,7 @@ border-radius: 0.2rem;
 }
 
 .section-experiences-container{
+    margin-top:2rem;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
